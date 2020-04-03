@@ -1,13 +1,13 @@
-<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta4-nasa-tlx/web/index.html'" />
 
 # Datasets Repository Template
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
 [![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/blob/master/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/repo-template-datasets?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/commits/master)
-[![HitCount](http://hits.dwyl.io/MIMBCD-UI/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/dataset-uta4-nasa-tlx?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx/commits/master)
+[![HitCount](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-nasa-tlx.svg)](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-nasa-tlx)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
@@ -66,7 +66,7 @@ At this point, the only way to install this repository is manual. Eventually, th
 Nonetheless, this kind of installation is as simple as cloning this repository. Virtually all Git and GitHub version control tools are capable of doing that. Through the console, we can use the command below, but other ways are also fine.
 
 ```bash
-git clone https://github.com/MIMBCD-UI/repo-template-datasets.git
+git clone https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx.git
 ```
 
 Optionally, the module/directory can be installed into the designated Python interpreter by moving it into the site-packages directory at the respective Python directory.
