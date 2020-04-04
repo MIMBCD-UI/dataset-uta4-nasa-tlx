@@ -152,7 +152,7 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Jacinto C. Nascimento [ [Research Gate](https://www.researchgate.net/profile/Jacinto_Nascimento) ]
 
-#### Participants
+#### Promoters
 
 * Hugo Lencastre
 * Nádia Mourão
