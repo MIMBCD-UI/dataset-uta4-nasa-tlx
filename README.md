@@ -158,6 +158,7 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Hugo Lencastre
 * Nádia Mourão
+* Bruno Dias
 * Bruno Oliveira
 * Luís Ribeiro Gomes
 * Carlos Santiago
