@@ -118,6 +118,8 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates)
 
+- [`dataset-uta4-dicom`](https://github.com/MIMBCD-UI/dataset-uta4-dicom)
+
 - [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
 
 - [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
