@@ -3,18 +3,14 @@
 # Author: Francisco Maria Calisto
 # ------------------------------------------
 cd dataset
-INPUT=overview.csv
+INPUT=main_sheet_nasatlx.csv
 OLDIFS=$IFS
 IFS=','
 [ ! -f $INPUT ] && { echo "$INPUT file not found"; exit 100; }
-while read Age Contrast ContrastTag raw_input_path id tiff_name dicom_name
+while read name group physicians_number
 do
-	echo "Age : $Age"
-	echo "Contrast : $Contrast"
-	echo "ContrastTag : $ContrastTag"
-	echo "raw_input_path : $raw_input_path"
-	echo "id : $id"
-	echo "tiff_name : $tiff_name"
-	echo "dicom_name : $dicom_name"
+	echo "Name : $name"
+	echo "Group : $group"
+	echo "Physicians Number : $physicians_number"
 done < $INPUT
 IFS=$OLDIFS
